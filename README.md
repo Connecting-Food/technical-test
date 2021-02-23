@@ -4,10 +4,9 @@
 Create a python3 program that:
 
 Download a file from a given URL:
-1. small (10k lines)
-2. medium (100k lines)
-3. large (1M lines)
-4. huge (10M lines)
+1. small (10k lines) - [small.csv](https://github.com/Connecting-Food/technical-test/raw/master/small.csv)
+2. medium (100k lines) - [medium.csv](https://github.com/Connecting-Food/technical-test/raw/master/medium.csv)
+3. large (1M lines) - [large.csv](https://github.com/Connecting-Food/technical-test/raw/master/large.csv)
 
 Then, split the downloaded file content by date from `delivery_datetime` and `destination_country_code` into different files of 10k lines maximum each.
 
