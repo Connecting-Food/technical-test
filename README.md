@@ -1,6 +1,7 @@
 # Python Technical Test
 
 ## Problem Statement
+
 Create a python3 program that:
 
 Download a file from a given URL:
@@ -25,6 +26,18 @@ Then, split the downloaded file content by date from `delivery_datetime` and `de
 - `product_id` value **MUST** be an integer.
 - `product_id` value **MUST** be 10001 (consider only this `product_id`)
 - `destination_country_code` **MUST** be a valid Country ISO Code.
+
+### Fieldnames
+
+- producer_id
+- producer_name
+- product_id
+- product_name
+- product_unit
+- quantity
+- specifications_id
+- delivery_datetime
+- destination_country_code
 
 ## What we expect:
 
