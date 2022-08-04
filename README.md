@@ -23,9 +23,10 @@ Then, split the downloaded file content by date from `delivery_datetime` and `de
 > 
 > ...
 
-- `product_id` value **MUST** be an integer.
+Ensure following requirements on output data:
+- `product_id` value **MUST** be an integer
 - `product_id` value **MUST** be 10001 (consider only this `product_id`)
-- `destination_country_code` **MUST** be a valid Country ISO Code.
+- `destination_country_code` **MUST** be a valid Country ISO Code
 
 ### Fieldnames
 
@@ -50,4 +51,4 @@ Then, split the downloaded file content by date from `delivery_datetime` and `de
 ## Bonus:
 
 1. Your code will be compatible with PEP8
-2. Writing Unit Test
+2. Writing tests
