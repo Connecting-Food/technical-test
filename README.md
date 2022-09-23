@@ -4,7 +4,8 @@
 
 Create a python3 program that:
 
-Download a file from a given URL:
+Download a file from a given URL.
+Here some samples:
 1. small (10k lines) - [small.csv](https://github.com/Connecting-Food/technical-test/raw/master/small.csv)
 2. medium (100k lines) - [medium.csv](https://github.com/Connecting-Food/technical-test/raw/master/medium.csv)
 3. large (1M lines) - [large.csv](https://github.com/Connecting-Food/technical-test/raw/master/large.csv)
